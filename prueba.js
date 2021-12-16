@@ -1,3 +1,3 @@
 function prueba () {
-    return "hola"
+    return "hola prueba2"
 }
